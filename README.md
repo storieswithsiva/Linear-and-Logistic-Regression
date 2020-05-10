@@ -195,13 +195,13 @@ It was difficult homework because we haven't covered any implementations of ML a
 
 ### How to run?
 
-[![Ipynb](https://img.shields.io/badge/Ipynb-Linear_and_Logistic Regression.ipynb-lightgrey.svg?logo=python&style=social)](https://github.com/iamsivab/Linear-and-Logistic-Regression/Linear and Logistic Regression.ipynb)
+[![Ipynb](https://img.shields.io/badge/Ipynb-Linear_and_Logistic_Regression.ipynb-lightgrey.svg?logo=python&style=social)](https://github.com/iamsivab/Linear-and-Logistic-Regression/blob/master/Linear%20and%20Logistic%20Regression.ipynb)
 
 ### Project Reports
 
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=ipynb&style=social)](https://github.com/iamsivab/Linear-and-Logistic-Regression/Linear and Logistic Regression.ipynb)
+[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=ipynb&style=social)](https://github.com/iamsivab/Linear-and-Logistic-Regression/blob/master/Linear%20and%20Logistic%20Regression.ipynb)
 
-- [Download](https://github.com/iamsivab/Linear-and-Logistic-Regression/Linear and Logistic Regression.ipynb) for the report.
+- [Download](https://github.com/iamsivab/Linear-and-Logistic-Regression/blob/master/Linear%20and%20Logistic%20Regression.ipynb) for the report.
 
 ### Useful Links
 
