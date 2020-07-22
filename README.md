@@ -2,6 +2,8 @@
 
 [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FLinear-and-Logistic-Regression)
+
 # Linear-and-Logistic-Regression
 
 [![Generic badge](https://img.shields.io/badge/Datascience-Beginners-Red.svg?style=for-the-badge)](https://github.com/iamsivab/Linear-and-Logistic-Regression) 
